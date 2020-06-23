@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">resistencias</string>
+    <string name="titulo">INGRESE LOS COLORES</string>
+    <string name="calc">CALCULAR</string>
+    <string name="mas">∧</string>
+    <string name="menos">∨</string>
+</resources>
